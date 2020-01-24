@@ -21,19 +21,19 @@ The blockchain is an incorruptible digital ledger of economic transactions that 
 
 ## WHAT MAKES BLOCKCHAIN TECHNOLOGY UNIQUE?
 
-**Decentralized:**
+1. **Decentralized:**
 
 Because blockchains are managed by a network of nodes rather than a central authority, they are fully decentralized. This prevents any one entity from having any control over the network.
 
-**Transparent:**
+2. **Transparent:**
 
 Transactions on a blockchain are constantly being recorded and stored on the blockchain across nodes. This means that all participants can view all transactions on the network in real-time.
 
- **Immutable:**
+ 3. **Immutable:**
 
 Blockchains are designed to enable permanent record keeping so that stored data cannot be altered after being added. This makes it an extremely stable and reliable record-keeping system.
 
-**Secure:** 
+4. **Secure:** 
 
 It is hard to change or destroy blockchains because of its distributed nature. For example, if someone hacked into one of the computers on the network and altered information there, the network would remain unaffected.
 
