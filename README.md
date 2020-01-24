@@ -26,9 +26,11 @@ Because blockchains are managed by a network of nodes rather than a central auth
 2. Transparent:
 
 Transactions on a blockchain are constantly being recorded and stored on the blockchain across nodes. This means that all participants can view all transactions on the network in real-time.
+
 3. Immutable:
 
 Blockchains are designed to enable permanent record keeping so that stored data cannot be altered after being added. This makes it an extremely stable and reliable record-keeping system.
+
 4. Secure: 
 
 It is hard to change or destroy blockchains because of its distributed nature. For example, if someone hacked into one of the computers on the network and altered information there, the network would remain unaffected.
@@ -39,11 +41,30 @@ It is hard to change or destroy blockchains because of its distributed nature. F
 
 ## HOW DOES BITCOIN FIT INTO ALL THIS?
 
-In 2009, Satoshi Nakamoto introduced the world to Bitcoin. His goal was to create a peer-to-peer payment network that would remove the need for a 3rd party to verify these transactions.
-Before Bitcoin, the only way people could exchange money digitally was through a bank, exchange or online service. These are all examples of 3rd parties that control our information, money and transaction records.
-To solve this problem, Satoshi described the use of blocks connected in a chain that was chronological and permanent. This solved the double-spend problem and allowed people to exchange money knowing their transactions were secure and irreversible. This became what we now know as blockchain technology.
-As the first cryptocurrency, Bitcoin spurred the creation of other cryptocurrencies that are all attempting to solve specific problems.
+- In 2009, Satoshi Nakamoto introduced the world to Bitcoin. His goal was to create a peer-to-peer payment network that would remove the need for a 3rd party to verify these transactions.
+
+- Before Bitcoin, the only way people could exchange money digitally was through a bank, exchange or online service. These are all examples of 3rd parties that control our information, money and transaction records.
+
+- To solve this problem, Satoshi described the use of blocks connected in a chain that was chronological and permanent. This solved the double-spend problem and allowed people to exchange money knowing their transactions were secure and irreversible. This became what we now know as blockchain technology.
+
+- As the first cryptocurrency, Bitcoin spurred the creation of other cryptocurrencies that are all attempting to solve specific problems.
 
 ![image](https://www.visualcapitalist.com/wp-content/uploads/2018/09/blockchain-share.png)
+
+## References
+
+1. [Blockchain Technology](https://101blockchains.com/wp-content/uploads/2018/05/Key-Blockchain-Features.png)
+
+2. [Feature of Blockchain Technology](https://101blockchains.com/wp-content/uploads/2018/05/Key-Blockchain-Features.png)
+
+3. [Blockchain-Powering The Future](https://101blockchains.com/wp-content/uploads/2018/05/Key-Blockchain-Features.png)
+
+4. [My Github LINK](https://github.com/sushmachanati)
+
+
+
+
+
+
 
 
