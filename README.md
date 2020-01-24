@@ -18,6 +18,8 @@ The blockchain is an incorruptible digital ledger of economic transactions that 
 
 ![image](https://101blockchains.com/wp-content/uploads/2018/07/How_Does_a_Blockchain_work-1078x516.jpg)
 
+image taken from 101Blockchains.com
+
 
 ## WHAT MAKES BLOCKCHAIN TECHNOLOGY UNIQUE?
 
@@ -40,6 +42,8 @@ It is hard to change or destroy blockchains because of its distributed nature. F
 
 ![image](https://101blockchains.com/wp-content/uploads/2018/05/Key-Blockchain-Features.png)
 
+image taken from 101Blockchain.cpm
+
 
 ## HOW DOES BITCOIN FIT INTO ALL THIS?
 
@@ -52,6 +56,8 @@ It is hard to change or destroy blockchains because of its distributed nature. F
 - As the first cryptocurrency, Bitcoin spurred the creation of other cryptocurrencies that are all attempting to solve specific problems.
 
 ![image](https://www.visualcapitalist.com/wp-content/uploads/2018/09/blockchain-share.png)
+
+image taken from visualcapitalist.com
 
 
 ## References
