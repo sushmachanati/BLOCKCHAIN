@@ -42,7 +42,7 @@ It is hard to change or destroy blockchains because of its distributed nature. F
 
 ![image](https://101blockchains.com/wp-content/uploads/2018/05/Key-Blockchain-Features.png)
 
-image taken from 101Blockchain.cpm
+image taken from 101Blockchain.com
 
 
 ## HOW DOES BITCOIN FIT INTO ALL THIS?
